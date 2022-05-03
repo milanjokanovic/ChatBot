@@ -1,0 +1,2 @@
+30% accuracy for similar question to the given
+45% accuracy in giving a meaningful anwer for given question
